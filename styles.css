@@ -1,0 +1,39 @@
+.card{
+    border: 1px solid lightgray;
+    width: 320px;
+    box-shadow: 2px 5px lightgray;
+}
+
+h3{
+    margin: 10px 10px;
+}
+
+img{
+    width: 300px;
+    height: 200px;
+    margin: 10px;
+}
+
+#interest_fact{
+    font-style: italic;
+}
+
+.list_label{
+    font-weight: bold;
+}
+
+ul{
+    list-style-type: none;
+    padding-left: 0%;
+}
+
+.info_container{
+    width: 300px;
+    border: 1px solid lightgray;
+    margin: 10px;
+}
+
+.info_text{
+    margin: 15px 10px;
+    font: 9pt san-serif;
+}
